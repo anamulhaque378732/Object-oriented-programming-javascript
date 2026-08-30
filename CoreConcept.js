@@ -31,11 +31,29 @@
 
 // Four Principles of oop
 /**
- * 1. Abstraction : (hide something for simplicity) Abstraction is one of the four core OOP principles. It means hiding complex internal details and showing only the essential features to the user. You interact with a simple interface without needing to know how it works internally.
+ * 1. Abstraction : (hide something for simplicity) Abstraction is one of the four core OOP principles. It means hiding complex internal details and showing only the essential features to the user. You interact with a simple interface without needing to know  how it works internally.
  *
- *  2. Encapsulation :()
+ *  2. Encapsulation :() the definition of encapsulation is " the action of enclosing something in or as if in a capsule". Encapsulation means that each object in your code should control its own state. state is the current "snapshot" of your objects
  *
- * 3. Inheritance
+ * 3. Inheritance : () the ability of creating a new class from an existing class. inheritance is when an object acquires the property of another object. inheritance aallows a class to acqure the properties and behavior of another class.
  *
- * 4. Polymorphism
+ * 4. Polymorphism : () polymorpgism is derived from 2 greek words: poly and morphs. he word "poly" mans many and "Morphs" means from. so polymorphism means "Many forms"
  */
+
+// class is a "template" for creating object: A class is a blueprint for creating objects with shared structure and behavior. JavaScript classes (introduced in ES6) are actually syntactic sugar over prototypes — under the hood, it's still prototype-based inheritance.just with a cleaner syntax.
+
+// object is a combination of noun and adjective & verb : An object in JavaScript is a collection of key-value pairs (also called properties), where the keys are strings (or Symbols) and the values can be anything — numbers, strings, functions, arrays, or even other objects.
+/**
+ * 1.(a capsule that can encapsulate data & operation)
+ * 2. has some private and public properties
+ * 3. has some funcions which is called methods
+ * 4. is a custom data type
+ * 5. an isolated environment for properties & methods
+ *
+ */
+
+// OPP : finding object , it's properties and methods are the main machanism of learnig object oriented programming
+
+// there are two types of oop
+// 1. is a relation (inheritance)
+// 2. has a relation (composition , aggregation)
