@@ -54,6 +54,26 @@
 
 // OPP : finding object , it's properties and methods are the main machanism of learnig object oriented programming
 
-// there are two types of oop
+// there are two types of relation in  OOP
 // 1. is a relation (inheritance)
 // 2. has a relation (composition , aggregation)
+
+// ** inheritance means "is a relationship" **
+
+// ** has a relation: 
+
+// Composition — strong ownership ("owns")
+// Aggregation — weak ownership ("uses"/"has access to")
+
+
+// Object is polymorphic
+
+
+//  two step of polymorphism 
+// 1. compile time : constructor overloading, operator overloading, function overloading, funtion overraiding
+// 2. run time : virtual function , 
+
+// OOP language : 
+
+
+
